@@ -29,14 +29,7 @@
   <a href = "mailto:felipealves.1997.17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipepaixao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/felipepaixao16/felipepaixao16/blob/output/github-contribution-grid-snake.svg)
-
-</div>
   
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p><a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
