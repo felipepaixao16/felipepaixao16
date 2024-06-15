@@ -14,17 +14,18 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Lipe-Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Lipe-Typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Lipe-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
   <img align="center" alt="Lipe-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
-  <img align="center" alt="Lipe-NodeJs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg">
-  <img align="center" alt="Lipe-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
+  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Lipe-Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">  
+  <img align="center" alt="Lipe-NodeJs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg">  
   <img align="center" alt="Lipe-NestJs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg">
   <img align="center" alt="Lipe-Spring" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg">
+  <img align="center" alt="Lipe-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
   <img align="center" alt="Lipe-Postgres" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">
-  <img align="center" alt="Lipe-Typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  
 </div>
   
   ##
